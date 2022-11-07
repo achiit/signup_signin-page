@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731347992991",
+    "project_id": "telepathy-49f4d",
+    "storage_bucket": "telepathy-49f4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731347992991:android:b3385f8563e84a977e7daa",
+        "android_client_info": {
+          "package_name": "com.example.intern1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731347992991-1eg1scvird1llmki329ulb87ct97n37n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADFBkvJtfuT887VbjbkDpMlV6YxKRktbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731347992991-1eg1scvird1llmki329ulb87ct97n37n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
